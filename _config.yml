@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "توررنگ آتشی"
+title                    : "ملیحه حاجی حسینی"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Malihe" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Malihe Hajihosseini"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/m_hajihosseini.jpg"
   bio              : I'm the best student.
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : m.hajihosseini95@gmail.com
   twitter: sauleh_e
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/m_hajihosseini"
 
 # Site Footer
 footer:
